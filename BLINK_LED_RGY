@@ -1,0 +1,23 @@
+# Arduino Ping-Pong LED Sequence
+
+This Arduino project controls three LEDs connected to digital pins 11, 12, and 13. The LEDs turn on one after another from left to right and then back from right to left, creating a ping-pong or bouncing effect.
+
+## Objective
+
+To create a simple LED sequencing pattern using for-loops and delay functions in Arduino.
+
+## Components Required
+
+- Arduino UNO board
+- 3 LEDs
+- 3 × 220Ω resistors
+- Breadboard
+- Jumper wires
+- USB cable for programming
+
+## Circuit Connections
+
+- Connect the anode (longer leg) of each LED to pins 11, 12, and 13 respectively through a 220Ω resistor.
+- Connect the cathode (shorter leg) of each LED to GND.
+
+Simulation Link : https://drive.google.com/file/d/1wa3ACAsemRVzyi9ohSh_GL0NsiLWFtJ7/view?usp=drive_link
